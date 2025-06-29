@@ -4,13 +4,22 @@
   "description": "Practice",
   "main": "index.js",
   "scripts": {
-    "generate": "node src/scripts/generateProducts.js"
+    "generate": "node src/scripts/generateProducts.js",
+    "get-products-by-min-price": "node src/scripts/getProductsByMinPrice.js",
+    "get-total-price": "node src/scripts/getTotalPrice.js",
+    "get-unique-categories": "node src/scripts/getUniqueCategories.js",
+    "modify-products": "node src/scripts/modifyProducts.js",
+    "group-products": "node src/scripts/groupProductsByCategories.js",
+    "create-products-files": "node src/scripts/createProductsFiles.js"
   },
   "type": "module",
   "keywords": [],
   "author": "Alona",
   "license": "ISC",
   "devDependencies": {
-    "@faker-js/faker": "^9.8.0"
+    "@eslint/js": "^9.30.0",
+    "@faker-js/faker": "^9.8.0",
+    "eslint": "^9.30.0",
+    "globals": "^16.2.0"
   }
 }

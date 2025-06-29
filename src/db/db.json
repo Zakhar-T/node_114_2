@@ -1,86 +1,77 @@
 [
   {
-    "name": "Gorgeous Bamboo Towels",
-    "price": "838.15",
-    "category": "Garden",
-    "description": "The sleek and neglected Shoes comes with lavender LED lighting for smart functionality"
+    "name": "Rustic Metal Chicken",
+    "price": "97.30",
+    "category": "Outdoors"
   },
   {
-    "name": "Oriental Rubber Chicken",
-    "price": "119.74",
-    "category": "Electronics",
-    "description": "Professional-grade Tuna perfect for lovable training and recreational use"
+    "name": "Rustic Steel Salad",
+    "price": "23.89",
+    "category": "Shoes"
   },
   {
-    "name": "Handmade Cotton Hat",
-    "price": "401.95",
-    "category": "Kids",
-    "description": "The sleek and breakable Hat comes with orchid LED lighting for smart functionality"
+    "name": "Awesome Ceramic Gloves",
+    "price": "704.15",
+    "category": "Books"
   },
   {
-    "name": "Handmade Granite Pants",
-    "price": "506.85",
-    "category": "Health",
-    "description": "New Shoes model with 83 GB RAM, 767 GB storage, and slimy features"
+    "name": "Incredible Concrete Bacon",
+    "price": "203.29",
+    "category": "Shoes"
   },
   {
-    "name": "Elegant Gold Sausages",
-    "price": "604.09",
-    "category": "Books",
-    "description": "Discover the rabbit-like agility of our Mouse, perfect for unlined users"
+    "name": "Sleek Wooden Chips",
+    "price": "805.39",
+    "category": "Tools"
   },
   {
-    "name": "Rustic Cotton Keyboard",
-    "price": "95.61",
-    "category": "Garden",
-    "description": "Introducing the Bouvet Island-inspired Gloves, blending courageous style with local craftsmanship"
+    "name": "Unbranded Metal Keyboard",
+    "price": "931.73",
+    "category": "Kids"
   },
   {
-    "name": "Gorgeous Silk Bike",
-    "price": "776.95",
-    "category": "Clothing",
-    "description": "Introducing the Panama-inspired Gloves, blending crazy style with local craftsmanship"
+    "name": "Handmade Metal Chair",
+    "price": "704.09",
+    "category": "Toys"
   },
   {
-    "name": "Fantastic Plastic Bacon",
-    "price": "719.59",
-    "category": "Jewelry",
-    "description": "New cyan Shirt with ergonomic design for long comfort"
+    "name": "Refined Wooden Pants",
+    "price": "825.75",
+    "category": "Health"
   },
   {
-    "name": "Intelligent Plastic Mouse",
-    "price": "19.49",
-    "category": "Games",
-    "description": "Luettgen, O'Keefe and Daugherty's most advanced Hat technology increases idealistic capabilities"
+    "name": "Electronic Cotton Ball",
+    "price": "586.25",
+    "category": "Beauty"
   },
   {
-    "name": "Recycled Wooden Mouse",
-    "price": "122.75",
-    "category": "Garden",
-    "description": "Our tangy-inspired Keyboard brings a taste of luxury to your optimistic lifestyle"
+    "name": "Rustic Bamboo Bike",
+    "price": "570.34",
+    "category": "Industrial"
   },
   {
-    "name": "Elegant Ceramic Keyboard",
-    "price": "783.15",
-    "category": "Baby",
-    "description": "The sleek and deadly Table comes with white LED lighting for smart functionality"
+    "name": "Modern Plastic Table",
+    "price": "345.89",
+    "category": "Sports"
   },
   {
-    "name": "Intelligent Marble Bike",
-    "price": "947.59",
-    "category": "Toys",
-    "description": "Our sour-inspired Chips brings a taste of luxury to your cool lifestyle"
+    "name": "Intelligent Metal Car",
+    "price": "207.69",
+    "category": "Computers"
   },
   {
-    "name": "Handmade Wooden Car",
-    "price": "528.75",
-    "category": "Grocery",
-    "description": "Ergonomic Sausages made with Gold for all-day tired support"
+    "name": "Rustic Steel Cheese",
+    "price": "860.55",
+    "category": "Clothing"
   },
   {
-    "name": "Sleek Metal Cheese",
-    "price": "431.39",
-    "category": "Garden",
-    "description": "Discover the cow-like agility of our Sausages, perfect for competent users"
+    "name": "Soft Silk Shoes",
+    "price": "905.95",
+    "category": "Health"
+  },
+  {
+    "name": "Recycled Metal Shirt",
+    "price": "904.85",
+    "category": "Grocery"
   }
 ]
