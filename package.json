@@ -1,0 +1,16 @@
+{
+  "name": "node_114_2",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node src/scripts/generateProducts.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Alona",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.8.0"
+  }
+}
